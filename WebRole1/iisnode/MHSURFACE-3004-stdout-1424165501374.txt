@@ -1,0 +1,7 @@
+[0mGET / [31m500 [0m30.150 ms - 922[0m
+[0mGET /favicon.ico [31m500 [0m33.499 ms - 922[0m
+[0mGET / [32m200 [0m244.897 ms - 170[0m
+[0mGET /stylesheets/style.css [32m200 [0m5.732 ms - 110[0m
+[0mGET /favicon.ico [33m404 [0m41.674 ms - 1137[0m
+[0mGET / [32m200 [0m34.418 ms - 184[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.184 ms - -[0m

@@ -1,0 +1,22 @@
+Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at new View (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\view.js:50:49)
+    at EventEmitter.app.render (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\application.js:509:12)
+    at ServerResponse.res.render (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\response.js:933:7)
+    at C:\dev\node\awesomeapp\WebRole1\app.js:53:9
+    at Layer.handle_error (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\router\layer.js:58:5)
+    at trim_prefix (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\router\index.js:300:13)
+Error: Cannot find module 'jade'
+    at Function.Module._resolveFilename (module.js:336:15)
+    at Function.Module._load (module.js:278:25)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at new View (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\view.js:50:49)
+    at EventEmitter.app.render (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\application.js:509:12)
+    at ServerResponse.res.render (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\response.js:933:7)
+    at C:\dev\node\awesomeapp\WebRole1\app.js:53:9
+    at Layer.handle_error (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\router\layer.js:58:5)
+    at trim_prefix (C:\dev\node\awesomeapp\WebRole1\node_modules\express\lib\router\index.js:300:13)
